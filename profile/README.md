@@ -6,9 +6,9 @@ Is an organization hosting header-only C utility libraries that make your experi
  
 | Name      | Version |
 |-----------|---------|
-| cli.h     | 0.0.1   |
-| ansi.h    | 0.0.1   |
-| logging.h | 0.0.1   |
+| [cli.h](https://github.com/IncludeOnly/cli.h)     | 0.0.1   |
+| [ansi.h](https://github.com/IncludeOnly/ansi.h)    | 0.0.1   |
+| [logging.h](https://github.com/IncludeOnly/logging.h) | 0.0.1   |
 
 ## My Profile
 
