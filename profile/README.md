@@ -2,6 +2,14 @@
 
 Is an organization hosting header-only C utility libraries that make your experience writting C a little better
 
+## Fetch
+
+Get all libraries locally
+
+```sh
+bash <(curl -s https://raw.githubusercontent.com/IncludeOnly/installer.sh/main/installer.sh)
+```
+
 ## Current collection
  
 | Name      | Version |
