@@ -2,3 +2,4 @@ https://raw.githubusercontent.com/IncludeOnly/cli.h/refs/heads/main/cli.h
 https://raw.githubusercontent.com/IncludeOnly/menu.h/refs/heads/main/menu.h
 https://raw.githubusercontent.com/IncludeOnly/ansi.h/refs/heads/main/ansi.h
 https://raw.githubusercontent.com/IncludeOnly/logging.h/refs/heads/main/logging.h
+https://raw.githubusercontent.com/IncludeOnly/test.h/refs/heads/main/test.h
