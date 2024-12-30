@@ -12,13 +12,13 @@ bash <(curl -s https://raw.githubusercontent.com/IncludeOnly/installer.sh/main/i
 
 ## Current collection
  
-| Name      | Version |
-|-----------|---------|
-| [cli.h](https://github.com/IncludeOnly/cli.h)     | 0.0.1   |
-| [ansi.h](https://github.com/IncludeOnly/ansi.h)    | 0.0.1   |
+| Name                                                  | Version |
+|-------------------------------------------------------|---------|
+| [cli.h](https://github.com/IncludeOnly/cli.h)         | 0.0.1   |
+| [ansi.h](https://github.com/IncludeOnly/ansi.h)       | 0.0.1   |
 | [logging.h](https://github.com/IncludeOnly/logging.h) | 0.0.1   |
-| [menu.h](https://github.com/IncludeOnly/menu.h) | 0.0.1 |
-| [test.h](https://github.com/IncludeOnly/test.h) | 0.0.1   |
+| [menu.h](https://github.com/IncludeOnly/menu.h)       | 0.0.1   |
+| [test.h](https://github.com/IncludeOnly/test.h)       | 0.0.2   |
 
 ## My Profile
 
