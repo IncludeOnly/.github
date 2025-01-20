@@ -19,7 +19,7 @@ bash <(curl -s https://raw.githubusercontent.com/IncludeOnly/installer.sh/main/i
 | [logging.h](https://github.com/IncludeOnly/logging.h) | 0.0.1   |
 | [menu.h](https://github.com/IncludeOnly/menu.h)       | 0.0.1   |
 | [test.h](https://github.com/IncludeOnly/test.h)       | 0.0.2   |
-| [string.h](https://github.com/IncludeOnly/string.h)   | 0.0.2   |
+| [string.h](https://github.com/IncludeOnly/string.h)   | 0.0.3   |
 
 ## My Profile
 
