@@ -6,3 +6,4 @@ https://raw.githubusercontent.com/IncludeOnly/test.h/refs/heads/main/test.h
 https://raw.githubusercontent.com/IncludeOnly/string.h/refs/heads/main/string.h
 https://raw.githubusercontent.com/IncludeOnly/luaman.h/refs/heads/main/luaman.h
 https://raw.githubusercontent.com/IncludeOnly/bench.h/refs/heads/main/bench.h
+https://raw.githubusercontent.com/IncludeOnly/ini.h/refs/heads/main/ini.h

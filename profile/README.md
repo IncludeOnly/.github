@@ -22,6 +22,7 @@ bash <(curl -s https://raw.githubusercontent.com/IncludeOnly/installer.sh/main/i
 | [string.h](https://github.com/IncludeOnly/string.h)   | 0.0.3   |
 | [luaman.h](https://github.com/IncludeOnly/luaman.h)   | 0.1.0   |
 | [bench.h](https://github.com/IncludeOnly/bench.h)     | 0.0.1   |
+| [ini.h](https://github.com/IncludeOnly/ini.h)         | --      |
 
 ## My Profile
 
